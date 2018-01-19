@@ -2,17 +2,17 @@
 
 Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_hello)|[![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_hello/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_hello/branch/master)
+master|[![Build Status](https://travis-ci.org/same-drenth/correct_cpp_hello.svg?branch=master)](https://travis-ci.org/same-drenth/correct_cpp_hello)|[![codecov.io](https://codecov.io/github/same-drenth/correct_cpp_hello/coverage.svg?branch=master)](https://codecov.io/github/same-drenth/correct_cpp_hello/branch/master)
 
-[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello'.
+[Correct C++](https://github.com/same-drenth/correct_cpp) chapter 'Hello'.
 
 ## Goal
 
- * Understand [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
+ * Understand [how this course works](https://github.com/same-drenth/correct_cpp/blob/master/doc/how_this_course_works.md)
 
 ## Prerequisites
 
- * Have created [your 'Correct C++' scoreboard](https://github.com/richelbilderbeek/correct_cpp_scoreboard)
+ * Have created [your 'Correct C++' scoreboard](https://github.com/same-drenth/correct_cpp_scoreboard)
 
 ## Exercise
 
@@ -25,31 +25,31 @@ Feel free to just copy-paste this code to `main.cpp`:
 int main() {}
 ```
 
-Note the `///`, which indicates a [Doxygen](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDoxygen.md) [documentation](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDocumentation.md) comment.
+Note the `///`, which indicates a [Doxygen](https://github.com/same-drenth/cpp/blob/master/content/CppDoxygen.md) [documentation](https://github.com/same-drenth/cpp/blob/master/content/CppDocumentation.md) comment.
 
-This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
+This is [how this course works](https://github.com/same-drenth/correct_cpp/blob/master/doc/how_this_course_works.md):
 
   1. Login to [GitHub](https://github.com/)
-  2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
-  3. Activate Travis CI for your GitHub. See [activate](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/activate.md) for help 
-  4. Clone your fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/clone_your_fork.md) for help
-  5. On your local code, modify the `README.md`. See [modify README](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/modify_readme.md) for help
-  6. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
-  7. On your local code, do the exercise. See [do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/do_the_exercise.md) for help
-  8. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
+  2. Fork this repository. See [fork a chapter](https://github.com/same-drenth/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
+  3. Activate Travis CI for your GitHub. See [activate](https://github.com/same-drenth/correct_cpp/blob/master/doc/activate.md) for help 
+  4. Clone your fork. See [clone your fork](https://github.com/same-drenth/correct_cpp/blob/master/doc/clone_your_fork.md) for help
+  5. On your local code, modify the `README.md`. See [modify README](https://github.com/same-drenth/correct_cpp/blob/master/doc/modify_readme.md) for help
+  6. Push your code. See [push your code](https://github.com/same-drenth/correct_cpp/blob/master/doc/push_your_code.md) for help
+  7. On your local code, do the exercise. See [do the exercise](https://github.com/same-drenth/correct_cpp/blob/master/doc/do_the_exercise.md) for help
+  8. Push your code. See [push your code](https://github.com/same-drenth/correct_cpp/blob/master/doc/push_your_code.md) for help
   9. If you did everything correctly, the build status of your fork will become green. Well done! Else, click on the red build status badge to view the Travis CI log
 
 Your code must be correct, thus your code must:
 
  * compile cleanly at high warning levels [1,2] 
- * have [a low cyclomatic complexity](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/lower_cyclomatic_complexity.md)
- * have [how a 100% code coverage](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/get_100_percent_code_coverage.md)
- * have complete [documentation](https://github.com/richelbilderbeek/cpp/blob/master/content/CppDocumentation.md) [4]
+ * have [a low cyclomatic complexity](https://github.com/same-drenth/correct_cpp/blob/master/doc/lower_cyclomatic_complexity.md)
+ * have [how a 100% code coverage](https://github.com/same-drenth/correct_cpp/blob/master/doc/get_100_percent_code_coverage.md)
+ * have complete [documentation](https://github.com/same-drenth/cpp/blob/master/content/CppDocumentation.md) [4]
 
 ## External links
 
- * [Download the Qt Creator file `main.pro`](https://raw.githubusercontent.com/richelbilderbeek/correct_cpp/master/shared/main.pro)
- * [Video how to do this chapter (mp4)](http://www.richelbilderbeek.nl/correct_cpp_hello.mp4)
+ * [Download the Qt Creator file `main.pro`](https://raw.githubusercontent.com/same-drenth/correct_cpp/master/shared/main.pro)
+ * [Video how to do this chapter (mp4)](http://www.same-drenth.nl/correct_cpp_hello.mp4)
 
 ## References
 
